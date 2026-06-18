@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<rect x="40" y="40" width="432" height="432" rx="90" fill="#2563eb"/>
+<rect x="190" y="220" width="132" height="72" rx="18" fill="#ffffff"/>
+<line x1="256" y1="256" x2="160" y2="160" stroke="#ffffff" stroke-width="14"/>
+<line x1="256" y1="256" x2="352" y2="160" stroke="#ffffff" stroke-width="14"/>
+<line x1="256" y1="256" x2="160" y2="352" stroke="#ffffff" stroke-width="14"/>
+<line x1="256" y1="256" x2="352" y2="352" stroke="#ffffff" stroke-width="14"/>
+<circle cx="160" cy="160" r="28" fill="none" stroke="#ffffff" stroke-width="12"/>
+<circle cx="352" cy="160" r="28" fill="none" stroke="#ffffff" stroke-width="12"/>
+<circle cx="160" cy="352" r="28" fill="none" stroke="#ffffff" stroke-width="12"/>
+<circle cx="352" cy="352" r="28" fill="none" stroke="#ffffff" stroke-width="12"/>
+<text x="256" y="418" text-anchor="middle" font-family="Arial, sans-serif" font-size="72" font-weight="700" fill="#fde047">STS</text>
+</svg>
