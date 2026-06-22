@@ -1,0 +1,4 @@
+<!DOCTYPE html><html lang='de'><head><meta charset='UTF-8'><meta name='viewport' content='width=device-width, initial-scale=1'><title>STS Lern-App</title></head><body><h2>STS Lern-App</h2><button onclick='start()'>Quiz starten</button><div id='q'></div><script>
+let d;fetch('quiz-data.json').then(r=>r.json()).then(x=>d=x);
+function start(){let h='';d.quizzes[0].questions.slice(0,5).forEach((q,i)=>{h+=`<p><b>${i+1}</b> ${q.q}</p>`});document.getElementById('q').innerHTML=h}
+</script></body></html>
