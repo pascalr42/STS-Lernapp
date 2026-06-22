@@ -101,7 +101,7 @@
           "q": "Was bedeutet die Angabe 025/25 kt in einem aeronautischen Wetterbericht?",
           "options": [
             "Leichter Wind aus südwestlicher Richtung mit 25 km/h",
-            "Wind aus 250° mit 25 m/s",
+            "Wind aus 250Â° mit 25 m/s",
             "Starker Wind aus nordnordöstlicher Richtung mit 25 kt",
             "Wind aus nordwestlicher Richtung mit 13 kt"
           ],
@@ -186,12 +186,12 @@
           "marked": true
         },
         {
-          "q": "Welche Umrechnung von 20 °C ist korrekt?",
+          "q": "Welche Umrechnung von 20 Â°C ist korrekt?",
           "options": [
-            "253,15 K und 52 °F",
-            "273,15 K und 100 °F",
-            "293,15 K und 68 °F",
-            "300,15 K und 36 °F"
+            "253,15 K und 52 Â°F",
+            "273,15 K und 100 Â°F",
+            "293,15 K und 68 Â°F",
+            "300,15 K und 36 Â°F"
           ],
           "correct": 2,
           "marked": false
@@ -199,10 +199,10 @@
         {
           "q": "Am Boden werden 18 °C gemessen. Welche Temperatur ist nach dem genannten Standardgradienten in 500 m Höhe näherungsweise zu erwarten?",
           "options": [
-            "Etwa 17,35 °C",
-            "Etwa 14,75 °C",
-            "Etwa 11,5 °C",
-            "Etwa 21,25 °C"
+            "Etwa 17,35 Â°C",
+            "Etwa 14,75 Â°C",
+            "Etwa 11,5 Â°C",
+            "Etwa 21,25 Â°C"
           ],
           "correct": 1,
           "marked": false
@@ -265,10 +265,10 @@
         {
           "q": "Welche Werte gehören zur internationalen Standardatmosphäre auf Meereshöhe?",
           "options": [
-            "0 °C, 1.000 hPa und 1,0000 kg/m³",
-            "+20 °C, 1.013,25 mbar und 0,8000 kg/m³",
-            "+15 °C, 500 hPa und 1,2250 kg/m³",
-            "+15 °C, 1.013,25 hPa und 1,2250 kg/m³"
+            "0 Â°C, 1.000 hPa und 1,0000 kg/mÂ³",
+            "+20 Â°C, 1.013,25 mbar und 0,8000 kg/mÂ³",
+            "+15 Â°C, 500 hPa und 1,2250 kg/mÂ³",
+            "+15 Â°C, 1.013,25 hPa und 1,2250 kg/mÂ³"
           ],
           "correct": 3,
           "marked": false
@@ -323,7 +323,7 @@
             "Etwa 240 m, weil immer 30 % der Bodensichtweite anzusetzen sind",
             "Etwa 327 m, weil der Rotorabstand mit 800 m multipliziert wird",
             "Etwa 20 m, weil der Rotorabstand bei handelsüblichen UAS nicht berücksichtigt wird",
-            "Etwa 151 m, begrenzt durch 327 × 0,40 + 20 und unterhalb von 30 % der Bodensichtweite"
+            "Etwa 151 m, begrenzt durch 327 Ã 0,40 + 20 und unterhalb von 30 % der Bodensichtweite"
           ],
           "correct": 3,
           "marked": true
